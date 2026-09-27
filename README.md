@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=KIRAA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Student%20Developer%20%E2%80%A2%20Graphic%20Designer%20%E2%80%A2%20Avoo%20Creator&descAlignY=60&descSize=18" />
+<img src="./assets/AVOOCREATOR.svg" />
 
 </div>
 
