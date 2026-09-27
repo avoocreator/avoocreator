@@ -1,40 +1,92 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Halo%2C+aku+Kiraa+%F0%9F%91%8B;Student+Developer+%2B+Graphic+Designer;Building+things+under+Avoo+Creator;Web+%C2%B7+IoT+%C2%B7+UI%2FUX+%C2%B7+Research" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=KIRAA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Student%20Developer%20%E2%80%A2%20Graphic%20Designer%20%E2%80%A2%20Avoo%20Creator&descAlignY=60&descSize=18" />
 
 </div>
 
 <br/>
 
-## Tentang aku
+## 🪴 About Me
 
-Mahasiswa/pelajar yang suka bangun hal-hal dari kode — dari web app sampai eksperimen IoT. Aktif di **R&D Matura Robo Tech (MRT)**, **ECC**, dan **Nihongo Club**. Lewat brand **Avoo Creator**, aku gabungin sisi developer dan graphic designer jadi satu — bikin bukan cuma yang jalan, tapi yang juga enak dipandang.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```js
+const kiraa = {
+  role: "Student Developer & Graphic Designer",
+  location: "East Java, Indonesia",
+  organizations: ["R&D @ Matura Robo Tech", "ECC", "Nihongo Club"],
+  brand: "Avoo Creator",
+  focus: ["Web", "IoT", "UI/UX", "Research"],
+  tech: {
+    frontend: ["React", "TypeScript", "Tailwind", "Vite"],
+    other: ["C++", "Node.js"],
+    design: ["Figma", "Photoshop", "Illustrator"],
+  },
+};
+```
+
+</td>
+<td width="45%" valign="top">
+
+<!-- Ganti src di bawah dengan foto kamu sendiri (disarankan 500x400px), atau hapus tag <img> ini kalau nggak mau pakai foto -->
+<img src="URL_FOTO_KAMU" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🛠️ Expertise
+## 🔗 Connect With Me
+
+<div align="center">
+
+<!-- Ganti setiap URL_... di bawah dengan link asli kamu. Hapus baris yang nggak dipakai -->
+<a href="URL_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="URL_X_KAMU"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="URL_INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="URL_DISCORD_KAMU"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:avoocreator@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,tailwind,vite,cpp,figma,ps,ai,git,vscode,obsidian&theme=dark" />
 
+<br/><br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 </div>
 
 <br/>
 
-## 🚀 Best Project
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Repositories](https://github.com/avoocreator/avoocreator/blob/main/metrics.repositories.svg)
-
-</div>
+<img src="https://raw.githubusercontent.com/avoocreator/avoocreator/main/profile-summary-card-output/radical/0-profile-details.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/avoocreator/avoocreator/main/profile-summary-card-output/radical/4-productive-time.svg" width="49%" />
 
 <br/>
 
-## 📊 GitHub Metrics
+<img src="https://raw.githubusercontent.com/avoocreator/avoocreator/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/avoocreator/avoocreator/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/avoocreator/avoocreator/main/profile-summary-card-output/radical/3-stats.svg" width="32%" />
 
-<div align="center">
+<br/><br/>
 
 ![Metrics](https://github.com/avoocreator/avoocreator/blob/main/github-metrics.svg)
 
@@ -42,12 +94,10 @@ Mahasiswa/pelajar yang suka bangun hal-hal dari kode — dari web app sampai eks
 
 <br/>
 
-## 📫 Contact
+## 🚀 Proyek Unggulan
 
 <div align="center">
 
-<a href="mailto:avoocreator@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- Tambahin badge lain kalau ada: Instagram, LinkedIn, portfolio, dst -->
-<!-- <a href="LINK_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+![Repositories](https://github.com/avoocreator/avoocreator/blob/main/metrics.repositories.svg)
 
 </div>
