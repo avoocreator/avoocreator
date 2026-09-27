@@ -19,3 +19,12 @@ jobs:
           plugin_languages: yes
           plugin_lines: yes
           plugin_topics: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 4
+          plugin_repositories_order: pinned, starred, random
