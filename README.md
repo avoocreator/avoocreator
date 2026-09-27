@@ -86,18 +86,4 @@ const kiraa = {
 <img src="https://raw.githubusercontent.com/avoocreator/avoocreator/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="32%" />
 <img src="https://raw.githubusercontent.com/avoocreator/avoocreator/main/profile-summary-card-output/radical/3-stats.svg" width="32%" />
 
-<br/><br/>
-
-![Metrics](https://github.com/avoocreator/avoocreator/blob/main/github-metrics.svg)
-
-</div>
-
-<br/>
-
-## 🚀 Proyek Unggulan
-
-<div align="center">
-
-![Repositories](https://github.com/avoocreator/avoocreator/blob/main/metrics.repositories.svg)
-
 </div>
