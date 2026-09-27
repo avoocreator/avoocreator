@@ -1,17 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**avoocreator/avoocreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Halo%2C+aku+Kiraa+%F0%9F%91%8B;Student+Developer+%2B+Graphic+Designer;Building+things+under+Avoo+Creator;Web+%C2%B7+IoT+%C2%B7+UI%2FUX+%C2%B7+Research" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## Tentang aku
+
+Mahasiswa/pelajar yang suka bangun hal-hal dari kode — dari web app sampai eksperimen IoT. Aktif di **R&D Matura Robo Tech (MRT)**, **ECC**, dan **Nihongo Club**. Lewat brand **Avoo Creator**, aku gabungin sisi developer dan graphic designer jadi satu — bikin bukan cuma yang jalan, tapi yang juga enak dipandang.
+
+<br/>
+
+## 🛠️ Yang sering kupakai
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,tailwind,vite,cpp,figma,ps,ai,git,vscode,obsidian&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🚀 Beberapa hal yang lagi/pernah dikerjain
+
+- 💰 **Budgeto_Financial** — web app manajemen keuangan pribadi
+- 📚 **Verba** — platform belajar vocab Inggris berbasis AI
+- 🔩 **MRT-Vault** — dokumentasi code & skematik untuk MRT
+- 🎓 **Lensa Matura** — wadah aspirasi & informasi untuk siswa
+
+<br/>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
 ![Metrics](https://github.com/avoocreator/avoocreator/blob/main/github-metrics.svg)
+
+</div>
+
+<br/>
+
+## 🏆 Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=avoocreator&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+## 📫 Hubungi aku
+
+<div align="center">
+
+<a href="mailto:avoocreator@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- Tambahin badge lain kalau ada: Instagram, LinkedIn, portfolio, dst -->
+<!-- <a href="LINK_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+
+</div>
