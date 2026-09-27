@@ -12,7 +12,7 @@ Mahasiswa/pelajar yang suka bangun hal-hal dari kode — dari web app sampai eks
 
 <br/>
 
-## 🛠️ Yang sering kupakai
+## 🛠️ Expertise
 
 <div align="center">
 
@@ -42,17 +42,7 @@ Mahasiswa/pelajar yang suka bangun hal-hal dari kode — dari web app sampai eks
 
 <br/>
 
-## 🏆 Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=avoocreator&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
-## 📫 Hubungi aku
+## 📫 Contact
 
 <div align="center">
 
