@@ -22,12 +22,13 @@ Mahasiswa/pelajar yang suka bangun hal-hal dari kode — dari web app sampai eks
 
 <br/>
 
-## 🚀 Beberapa hal yang lagi/pernah dikerjain
+## 🚀 Best Project
 
-- 💰 **Budgeto_Financial** — web app manajemen keuangan pribadi
-- 📚 **Verba** — platform belajar vocab Inggris berbasis AI
-- 🔩 **MRT-Vault** — dokumentasi code & skematik untuk MRT
-- 🎓 **Lensa Matura** — wadah aspirasi & informasi untuk siswa
+<div align="center">
+
+![Repositories](https://github.com/avoocreator/avoocreator/blob/main/metrics.repositories.svg)
+
+</div>
 
 <br/>
 
